@@ -106,5 +106,5 @@ pargateadjp(gateproc, independence, alpha=0.025, printDecisionRules=TRUE)
 
 
 }
-\keyword{procedure}
-\keyword{\eqn{p}-value}
+\concept{procedure}
+\concept{p-value}

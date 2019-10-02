@@ -1,6 +1,6 @@
 Package: multxpert
 Title: Common Multiple Testing Procedures and Gatekeeping Procedures
-Version: 0.1
+Version: 0.1.1
 Date: 2010-10-31
 Author: Alex Dmitrienko, Eric Nantz, and Gautier Paux, with
         contributions by Thomas Brechenmacher
@@ -17,5 +17,6 @@ URL: http://multxpert.com/wiki/MultXpert_package
 LazyLoad: yes
 License: GPL-2
 Repository: CRAN
-Date/Publication: 2011-01-23 08:52:52
-Packaged: 2011-01-21 19:43:48 UTC; C084511
+Date/Publication: 2019-10-02 15:54:00 UTC
+Packaged: 2019-10-02 15:50:14 UTC; hornik
+NeedsCompilation: no

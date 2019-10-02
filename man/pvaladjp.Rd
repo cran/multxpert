@@ -129,5 +129,5 @@ pvaladjp(rawp, weight, proc=c("Hommel", "Fallback"))
 pvaladjp(rawp, weight, alpha=0.025, proc="Holm", printDecisionRules=TRUE)
 
 }
-\keyword{procedure}
-\keyword{\eqn{p}-value}
+\concept{procedure}
+\concept{p-value}

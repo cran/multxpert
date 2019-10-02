@@ -93,5 +93,5 @@ paradjp(stat, n, proc="Single-step Dunnett")
 paradjp(stat, n, proc=c("Single-step Dunnett", "Step-down Dunnett"))
 
 }
-\keyword{procedure}
-\keyword{\eqn{p}-value}
+\concept{procedure}
+\concept{p-value}

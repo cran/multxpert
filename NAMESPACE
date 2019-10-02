@@ -1,3 +1,5 @@
-importFrom(mvtnorm, pmvt, qmvt)
+importFrom(mvtnorm, pmvt, qmvt, GenzBretz)
 
 export(paradjp, pargateadjp, pvaladjp, pvalci, parci)
+
+importFrom("stats", "pt", "qnorm", "qt")
